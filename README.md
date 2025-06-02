@@ -23,7 +23,7 @@ To use the Palmd SDK in your project, follow these steps:
 ```ruby
 # You must include the palm native podspec source below.
 source 'https://github.com/CocoaPods/Specs.git'
-source 'git@github.com:rrbpalm/palmid-sdk-cocopods.git'
+source 'git@github.com:redrockbiometrics/palmid-sdk-cocopods.git'
 
 pod 'PalmIDNativeSDK', 'latest.version'
 ```
